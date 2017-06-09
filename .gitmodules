@@ -16,3 +16,6 @@
 [submodule "JAlgoArena-Eureka"]
 	path = JAlgoArena-Eureka
 	url = https://github.com/kboom/JAlgoArena-Eureka.git
+[submodule "JAlgoArena-API"]
+	path = JAlgoArena-API
+	url = https://github.com/spolnik/JAlgoArena-API.git
