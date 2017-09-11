@@ -1,21 +1,28 @@
 [submodule "JAlgoArena-UI"]
 	path = JAlgoArena-UI
 	url = https://github.com/kboom/JAlgoArena-UI.git
+	branch = master
 [submodule "JAlgoArena-Submissions"]
 	path = JAlgoArena-Submissions
 	url = https://github.com/kboom/JAlgoArena-Submissions.git
+	branch = master
 [submodule "JAlgoArena-Judge"]
 	path = JAlgoArena-Judge
 	url = https://github.com/kboom/JAlgoArena-Judge.git
+	branch = master
 [submodule "JAlgoArena-Problems"]
 	path = JAlgoArena-Problems
 	url = https://github.com/kboom/JAlgoArena-Problems.git
+	branch = master
 [submodule "JAlgoArena-Auth"]
 	path = JAlgoArena-Auth
 	url = https://github.com/kboom/JAlgoArena-Auth.git
+	branch = master
 [submodule "JAlgoArena-Eureka"]
 	path = JAlgoArena-Eureka
 	url = https://github.com/kboom/JAlgoArena-Eureka.git
+	branch = master
 [submodule "JAlgoArena-API"]
 	path = JAlgoArena-API
 	url = https://github.com/spolnik/JAlgoArena-API.git
+	branch = master
