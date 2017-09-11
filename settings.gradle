@@ -1,2 +1,3 @@
 rootProject.name = 'jalgoarena-e2e'
 
+include 'JAlgoArena-API', 'JAlgoArena-Auth', 'JAlgoArena-Eureka', 'JAlgoArena-Judge', 'JAlgoArena-Problems', 'JAlgoArena-Submissions', 'JAlgoArena-UI'
