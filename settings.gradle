@@ -1,3 +1,6 @@
 rootProject.name = 'jalgoarena-e2e'
 
-include 'JAlgoArena-API', 'JAlgoArena-Auth', 'JAlgoArena-Eureka', 'JAlgoArena-Judge', 'JAlgoArena-Problems', 'JAlgoArena-Submissions', 'JAlgoArena-UI'
+['JAlgoarena-API', 'JAlgoArena-Auth', 'JAlgoArena-Eureka', 'JAlgoArena-Judge', 'JAlgoArena-Problems', 'JAlgoArena-Submissions', 'JAlgoArena-UI'].each {
+    include ":$it"
+//    project(":$it").rootDir = new File("./$it")
+}
